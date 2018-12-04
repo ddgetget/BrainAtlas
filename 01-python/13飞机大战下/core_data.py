@@ -1,0 +1,4 @@
+# 屏幕的宽度
+SCREEN_WIDTH = 512
+# 屏幕的高度
+SCREEN_HEIGHT = 768

@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af1059d4-ce59-4433-9baf-d519e7cfad2e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/my_list.serialize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/student.serialize" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/01-第一个python程序.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/02-注释.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/03-python中文问题.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/04-变量及类型.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/05-标识符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/06-关键字.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/07-输出.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/08-格式化输出.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/09-python3输入.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/10-python2输入.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/01-变量/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/01-算数运算符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/02-赋值运算符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/03-复合赋值运算符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/04-数据类型的转换.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/05-if判断语句的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/06-比较运算符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/07-逻辑运算符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/08-if&amp;else语句的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/09-elif的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/10-if嵌套.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/11-猜拳游戏.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/12-while语句的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/13-while格式总结.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/14-while循环应用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/15-while循环嵌套.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/02数据类型判断循环/16-while循环嵌套的应用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/01-for循环的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/02-break和continue的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/03-字符串定义的四种格式.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/04-字符串的输出和输入.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/05-下标.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/06-切片.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/07-字符串常见操作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/08-列表定义.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/09-列表遍历.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/10-列表的增删改查.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/11-列表的index&amp;count的操作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/12-列表的排序和反转.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/13-列表的嵌套.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/03循环字符串列表/14-列表嵌套的应用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/01-元组的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/02-元组的遍历.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/03-元组的count&amp;index的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/04-字典的定义.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/05-字典的增删改查.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/06-字典常用的函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/07-字典的遍历.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/08-enumerate的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/09-公共方法的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/10-内置函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/11-函数的介绍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/12-函数的定义和调用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/13-函数文档说明.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/14-函数的参数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/04字典集合函数调用/15-函数的返回值.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/01-函数的四种类型.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/02-函数的嵌套调用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/03-函数的应用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/04-range的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/05-函数的应用2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/06-局部变量.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/07-全局变量.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/08-函数共享数据的方式.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/09-函数返回多个值.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/10-缺省参数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/11-位置参数和关键字参数的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/12-不定长参数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/13-不定长参数高级使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/14-关键字传参.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/05函数参数/15-拆包.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/06引用可变数据类型递归/01-交换两个变量的值.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/06引用可变数据类型递归/02-引用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/06引用可变数据类型递归/03-可变和不可变类型.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/06引用可变数据类型递归/04-函数参数传参的方式.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/06引用可变数据类型递归/05-函数的注意点.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/06引用可变数据类型递归/06-学生管理系统.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/06引用可变数据类型递归/07-递归函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/06引用可变数据类型递归/08-匿名函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/01-列表排序使用匿名函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/02-给程序传参数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/03-列表推导式.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/04-集合set的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/05-集合和列表和元组之间的相互转换.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/06-文件的介绍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/07-文件的读写.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/08-文件读取方式2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/09-文件拷贝.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/10-模拟大文件拷贝.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/11-if判断的扩展.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/07文件/12-三目运算符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/01-文件和文件夹的相关操作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/02-批量修改文件名.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/03-学生管理系统(文件版).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/04-面向对象的介绍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/05-类和对象关系.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/06-类的定义.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/07-创建对象.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/08-添加和获取对象属性.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/09-使用方法显示对象属性信息.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/10-init方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/11-有参数的init方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/12-str魔法方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/08对象/13-del魔法方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/01-烤地瓜.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/02-烤地瓜-扩展.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/03-存放家具.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/04-继承的介绍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/05-单继承.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/06-多继承.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/07-子类重写父类的方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/08-子类调用父类的方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/09-多层继承.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/10-super调用父类的方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/11-super调用init方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/09对象应用/12-super的扩展.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/01-面向对象三大特征的介绍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/02-私有属性和私有方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/03-子类不能访问私有属性和私有方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/04-修改私有属性.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/05-多态.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/06-类属性和实例(对象)属性.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/07-方法种类.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/08-对象方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/09-类方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/10-静态方法.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/11-对象方法修改类属性-扩展.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/10面向对象访问控制和单例/12-new方法的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/01-单例.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/02.测试单例是否在不同模块共享数据.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/03-异常的介绍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/04-异常的捕获.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/05-异常传递.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/06-抛出自定义的异常.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/07-异常处理中抛出异常.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/08-模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/09-模块的制作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/10-模块的导入.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/11-模块导入的注意点.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/12-判断模块是否是主模块.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/13-包的介绍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/14-包的导入.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/first_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/first_package/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/first_package/recv_msg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/first_package/send_msg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/hello.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/random.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/second_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/11异常和模块包/singleton.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/01-使用pygame-创建游戏窗口.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/02-图片绘制操作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/03-敌机移动.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/04-检测碰撞.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/05-窗口事件处理.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/06-音乐和音效的处理.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/07-显示文字.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/08-面向对象分析飞机大战.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/12飞机大战上/09-飞机大战.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/01-飞机大战(英雄飞机闪亮登场).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/02-飞机大战(控制英雄飞机的移动).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/03-飞机大战(发射子弹).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/04-飞机大战(敌机登场).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/05-飞机大战(run方法的抽取).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/06-飞机大战(子弹和敌机检测碰撞).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/06-飞机大战(播放音乐和音效).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/07-飞机大战(显示分数).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/core_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/game_bullet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/game_enemy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/game_hero.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/game_map.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/game_window.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/13飞机大战下/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/01-不定长参数拆包.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/02-不定长参数函数的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/03-缺省参数是可变类型.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/04-字典推导式.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/05-with open的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/06-偏函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/07-函数嵌套.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/08-返回函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/09-高阶函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/10-继承案例一.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/11-继承案例二.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/01-多态的案例.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/02-序列化和反序列化.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/03-slots的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/04-@property的使用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/05-反射.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/06-老王开枪面向对象分析.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/07-老王开枪(定义类及创建对象).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/08-老王开枪(安装子弹和弹夹).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/09-老王开枪(测试枪和弹夹信息).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/10-老王开枪(拿枪和创建敌人).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/11-老王开枪(老王向敌人开枪).py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/first_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/15序列化反射多态/second_module.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-python/__init__.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="02-图片绘制操作.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/02-图片绘制操作.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03-敌机移动.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/03-敌机移动.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-341">
+              <caret line="17" column="71" lean-forward="false" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-检测碰撞.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/04-检测碰撞.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-326">
+              <caret line="34" column="70" lean-forward="false" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05-窗口事件处理.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/05-窗口事件处理.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-401">
+              <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06-音乐和音效的处理.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/06-音乐和音效的处理.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-506">
+              <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07-显示文字.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/07-显示文字.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-761">
+              <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08-面向对象分析飞机大战.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/08-面向对象分析飞机大战.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09-飞机大战.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/09-飞机大战.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="109" column="35" lean-forward="true" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/game_bullet.py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/game_enemy.py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/game_hero.py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/game_map.py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/game_window.py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/01-飞机大战(英雄飞机闪亮登场).py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/02-飞机大战(控制英雄飞机的移动).py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/03-飞机大战(发射子弹).py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/04-飞机大战(敌机登场).py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/05-飞机大战(run方法的抽取).py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/06-飞机大战(子弹和敌机检测碰撞).py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/06-飞机大战(播放音乐和音效).py" />
+        <option value="$PROJECT_DIR$/01-python/13飞机大战下/07-飞机大战(显示分数).py" />
+        <option value="$PROJECT_DIR$/01-python/12飞机大战上/01-使用pygame-创建游戏窗口.py" />
+        <option value="$PROJECT_DIR$/01-python/12飞机大战上/02-图片绘制操作.py" />
+        <option value="$PROJECT_DIR$/01-python/12飞机大战上/03-敌机移动.py" />
+        <option value="$PROJECT_DIR$/01-python/12飞机大战上/04-检测碰撞.py" />
+        <option value="$PROJECT_DIR$/01-python/12飞机大战上/05-窗口事件处理.py" />
+        <option value="$PROJECT_DIR$/01-python/12飞机大战上/06-音乐和音效的处理.py" />
+        <option value="$PROJECT_DIR$/01-python/12飞机大战上/07-显示文字.py" />
+        <option value="$PROJECT_DIR$/01-python/12飞机大战上/09-飞机大战.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="37" />
+    <option name="y" value="24" />
+    <option name="width" value="1325" />
+    <option name="height" value="601" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainAtlas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainAtlas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainAtlas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BrainAtlas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-python" />
+      <recent name="$PROJECT_DIR$/01-python/01-变量" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="BrainAtlas" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="BrainAtlas" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af1059d4-ce59-4433-9baf-d519e7cfad2e" name="Default" comment="" />
+      <created>1543936209222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543936209222</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="37" y="24" width="1325" height="601" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3338546" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958803" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33996025" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01-python/01-变量/02-注释.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/01-变量/01-第一个python程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/03循环字符串列表/05-下标.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/day05/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/day04/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/day06/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/day07/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/day08/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/day09/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/10面向对象访问控制和单例/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/11异常和模块包/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/15/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/15序列化反射多态/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/02数据类型判断循环/10-if嵌套.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/core_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/game_bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="9" column="85" lean-forward="false" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/game_enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="10" column="84" lean-forward="false" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/game_hero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-446">
+          <caret line="8" column="83" lean-forward="false" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/game_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-236">
+          <caret line="12" column="82" lean-forward="false" selection-start-line="12" selection-start-column="82" selection-end-line="12" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/game_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2381">
+          <caret line="41" column="73" lean-forward="false" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/01-飞机大战(英雄飞机闪亮登场).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-535">
+          <caret line="66" column="77" lean-forward="false" selection-start-line="66" selection-start-column="77" selection-end-line="66" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/02-飞机大战(控制英雄飞机的移动).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-580">
+          <caret line="101" column="77" lean-forward="false" selection-start-line="101" selection-start-column="77" selection-end-line="101" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/03-飞机大战(发射子弹).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-745">
+          <caret line="142" column="77" lean-forward="false" selection-start-line="142" selection-start-column="77" selection-end-line="142" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/04-飞机大战(敌机登场).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-895">
+          <caret line="184" column="77" lean-forward="false" selection-start-line="184" selection-start-column="77" selection-end-line="184" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/05-飞机大战(run方法的抽取).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1061">
+          <caret line="184" column="77" lean-forward="false" selection-start-line="184" selection-start-column="77" selection-end-line="184" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/06-飞机大战(子弹和敌机检测碰撞).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1406">
+          <caret line="184" column="77" lean-forward="false" selection-start-line="184" selection-start-column="77" selection-end-line="184" selection-end-column="77" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/06-飞机大战(播放音乐和音效).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1466">
+          <caret line="204" column="73" lean-forward="false" selection-start-line="204" selection-start-column="73" selection-end-line="204" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/13飞机大战下/07-飞机大战(显示分数).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="388" column="36" lean-forward="true" selection-start-line="388" selection-start-column="36" selection-end-line="388" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/01-使用pygame-创建游戏窗口.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="69" lean-forward="false" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/02-图片绘制操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="10" column="69" lean-forward="false" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/03-敌机移动.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="17" column="71" lean-forward="false" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/04-检测碰撞.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-326">
+          <caret line="34" column="70" lean-forward="false" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/05-窗口事件处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401">
+          <caret line="9" column="69" lean-forward="false" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/06-音乐和音效的处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/07-显示文字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-761">
+          <caret line="23" column="68" lean-forward="false" selection-start-line="23" selection-start-column="68" selection-end-line="23" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/08-面向对象分析飞机大战.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/12飞机大战上/09-飞机大战.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="109" column="35" lean-forward="true" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-python/14偏函数嵌套函数推导式/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
